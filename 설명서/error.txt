@@ -1,0 +1,18 @@
+문제 (14days)
+import ydata_profiling
+from streamlit_pandas_profiling import st_profile_report
+
+해결
+pip install streamlit-pandas-profiling(21년 9월 이후 공식 지원 X)
+pip install pandas-profiling streamlit
+
+16days
+
+17days
+
+18days
+안되는건 아닌데 pdf 파일도 올릴 수 있게 시도해보기
+
+day27
+pip install streamlit-elements==0.1.* (에러)
+pip install streamlit-elements==0.1.0 (못불러옴)
